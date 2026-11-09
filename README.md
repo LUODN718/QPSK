@@ -75,7 +75,7 @@ CV 模块按 8×8 图像块计算梯度复杂度，让部分块使用 4 bit、�
 
 ## 汇报材料
 
-- [ppt/AI_CV_Communication_First.pptx](ppt/AI_CV_Communication_First.pptx)
-- [ppt/speaker_notes.md](ppt/speaker_notes.md)
+- [ppt/QPSK_Communication_Story.pptx](ppt/QPSK_Communication_Story.pptx)
+- [ppt/speaker_notes_v4.md](ppt/speaker_notes_v4.md)
 
 PPT 按 16 页组织，建议用 12–15 分钟讲完。主讲顺序是链路结构、Eb/N0、信道模型、理论验证、编码增益、波形证据，最后再讲 CV 图像业务层。
