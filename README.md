@@ -75,7 +75,11 @@ CV 模块按 8×8 图像块计算梯度复杂度，让部分块使用 4 bit、�
 
 ## 汇报材料
 
-- [ppt/QPSK_Communication_Story.pptx](ppt/QPSK_Communication_Story.pptx)
-- [ppt/speaker_notes_v4.md](ppt/speaker_notes_v4.md)
+- [ppt/QPSK_看懂链路版.pptx](ppt/QPSK_看懂链路版.pptx)
+- [ppt/speaker_notes_v5.md](ppt/speaker_notes_v5.md)
 
 PPT 按 16 页组织，建议用 12–15 分钟讲完。主讲顺序是链路结构、Eb/N0、信道模型、理论验证、编码增益、波形证据，最后再讲 CV 图像业务层。
+
+## 可视化版说明
+
+`ppt/QPSK_看懂链路版.pptx` 使用 PingFang SC 中文字体，适合在 macOS PowerPoint 中打开。它增加了链路总图、QPSK 星座解释、信道幅度分布、卷积码流程、Viterbi 状态图和 15 分钟时间轴。
